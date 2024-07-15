@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:610F6CDD-9018-4B69-9BBA-AC49D9A4B5FE</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-12-13T15:22:46-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:BCDA35BD-05DC-4896-B450-7451CFEC977D</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">BCDA35BD-05DC-4896-B450-7451CFEC977D</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2013-12-13T15:22:46.001-05:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:06A5CCD5-8301-4E97-887F-E55BC710837B</id>
+  <title>Banking</title>
+  <title xmlns="urn:iweb:">Banking</title>
+  <in-navbar xmlns="urn:iweb:">06A5CCD5-8301-4E97-887F-E55BC710837B</in-navbar>
+  <link rel="alternate" href="Banking.html"/>
+  <updated>2013-12-13T15:22:46.002-05:00</updated>
+  <content>Banking</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D4219B57-C13B-400E-B94B-8309C92D1F91</id>
+  <title>Churches</title>
+  <title xmlns="urn:iweb:">Churches</title>
+  <in-navbar xmlns="urn:iweb:">D4219B57-C13B-400E-B94B-8309C92D1F91</in-navbar>
+  <link rel="alternate" href="Churches.html"/>
+  <updated>2013-12-13T15:22:46.003-05:00</updated>
+  <content>Churches</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CF8564EA-3F6E-4DCF-8853-880D19DB6DE1</id>
+  <title>Maps &amp; Directions</title>
+  <title xmlns="urn:iweb:">Maps &amp; Directions</title>
+  <in-navbar xmlns="urn:iweb:">CF8564EA-3F6E-4DCF-8853-880D19DB6DE1</in-navbar>
+  <link rel="alternate" href="Maps_%26_Directions.html"/>
+  <updated>2013-12-13T15:22:46.004-05:00</updated>
+  <content>Maps &amp; Directions</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A561D3DF-225D-4FEB-8E7A-DF718ED73F58</id>
+  <title>Medical &amp; Wellness</title>
+  <title xmlns="urn:iweb:">Medical &amp; Wellness</title>
+  <in-navbar xmlns="urn:iweb:">A561D3DF-225D-4FEB-8E7A-DF718ED73F58</in-navbar>
+  <link rel="alternate" href="Medical_%26_Wellness.html"/>
+  <updated>2013-12-13T15:22:46.005-05:00</updated>
+  <content>Medical &amp; Wellness</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:22D4C6B0-8AE9-495A-92AC-3694D3DC3FCB</id>
+  <title>Municipal</title>
+  <title xmlns="urn:iweb:">Municipal</title>
+  <in-navbar xmlns="urn:iweb:">22D4C6B0-8AE9-495A-92AC-3694D3DC3FCB</in-navbar>
+  <link rel="alternate" href="Municipal.html"/>
+  <updated>2013-12-13T15:22:46.006-05:00</updated>
+  <content>Municipal</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6FB03ACB-281B-49DB-9B32-30A7BBF5A478</id>
+  <title>Newspapers &amp; News</title>
+  <title xmlns="urn:iweb:">Newspapers &amp; News</title>
+  <in-navbar xmlns="urn:iweb:">6FB03ACB-281B-49DB-9B32-30A7BBF5A478</in-navbar>
+  <link rel="alternate" href="Newspapers_%26_News.html"/>
+  <updated>2013-12-13T15:22:46.007-05:00</updated>
+  <content>Newspapers &amp; News</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3235F318-C47F-43C8-BDC5-F2DF192E12CB</id>
+  <title>Real Estate</title>
+  <title xmlns="urn:iweb:">Real Estate</title>
+  <in-navbar xmlns="urn:iweb:">3235F318-C47F-43C8-BDC5-F2DF192E12CB</in-navbar>
+  <link rel="alternate" href="Real_Estate.html"/>
+  <updated>2013-12-13T15:22:46.008-05:00</updated>
+  <content>Real Estate</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:051B42EA-945E-49D3-B876-BC185EBDE031</id>
+  <title>Schools</title>
+  <title xmlns="urn:iweb:">Schools</title>
+  <in-navbar xmlns="urn:iweb:">051B42EA-945E-49D3-B876-BC185EBDE031</in-navbar>
+  <link rel="alternate" href="Schools.html"/>
+  <updated>2013-12-13T15:22:46.009-05:00</updated>
+  <content>Schools</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4C596444-30E7-4ADD-A00E-FA8B4E162FE8</id>
+  <title>Search Engines</title>
+  <title xmlns="urn:iweb:">Search Engines</title>
+  <in-navbar xmlns="urn:iweb:">4C596444-30E7-4ADD-A00E-FA8B4E162FE8</in-navbar>
+  <link rel="alternate" href="Search_Engines.html"/>
+  <updated>2013-12-13T15:22:46.010-05:00</updated>
+  <content>Search Engines</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:334B2ED1-4B8C-4DFA-8503-CBFBF9FBB493</id>
+  <title>Shopping</title>
+  <title xmlns="urn:iweb:">Shopping</title>
+  <in-navbar xmlns="urn:iweb:">334B2ED1-4B8C-4DFA-8503-CBFBF9FBB493</in-navbar>
+  <link rel="alternate" href="Shopping.html"/>
+  <updated>2013-12-13T15:22:46.011-05:00</updated>
+  <content>Shopping</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:30F9066A-A02D-4053-8A73-F3CDB695659B</id>
+  <title>Social</title>
+  <title xmlns="urn:iweb:">Social</title>
+  <in-navbar xmlns="urn:iweb:">30F9066A-A02D-4053-8A73-F3CDB695659B</in-navbar>
+  <link rel="alternate" href="Social.html"/>
+  <updated>2013-12-13T15:22:46.012-05:00</updated>
+  <content>Social</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:62C0177C-B42B-4736-B682-BCB067342FE8</id>
+  <title>Sports</title>
+  <title xmlns="urn:iweb:">Sports</title>
+  <in-navbar xmlns="urn:iweb:">62C0177C-B42B-4736-B682-BCB067342FE8</in-navbar>
+  <link rel="alternate" href="Sports.html"/>
+  <updated>2013-12-13T15:22:46.013-05:00</updated>
+  <content>Sports</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4BE17D18-DE22-4ABF-A519-5E72D6BAE28D</id>
+  <title>Transportation</title>
+  <title xmlns="urn:iweb:">Transportation</title>
+  <in-navbar xmlns="urn:iweb:">4BE17D18-DE22-4ABF-A519-5E72D6BAE28D</in-navbar>
+  <link rel="alternate" href="Transportation.html"/>
+  <updated>2013-12-13T15:22:46.014-05:00</updated>
+  <content>Transportation</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2AC5AF23-AF5C-4E6E-8EE4-08C8AAC5D00C</id>
+  <title>Nardone Electric</title>
+  <title xmlns="urn:iweb:">Nardone Electric</title>
+  <in-navbar xmlns="urn:iweb:">2AC5AF23-AF5C-4E6E-8EE4-08C8AAC5D00C</in-navbar>
+  <link rel="alternate" href="Nardone_Electric.html"/>
+  <updated>2013-12-13T15:22:46.015-05:00</updated>
+  <content>Nardone Electric</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AA9E67AF-06D5-4C1E-B9F5-B33F7BBFA0E5</id>
+  <title>Utilities</title>
+  <title xmlns="urn:iweb:">Utilities</title>
+  <in-navbar xmlns="urn:iweb:">AA9E67AF-06D5-4C1E-B9F5-B33F7BBFA0E5</in-navbar>
+  <link rel="alternate" href="Utilities.html"/>
+  <updated>2013-12-13T15:22:46.016-05:00</updated>
+  <content>Utilities</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C8158B9C-7F70-4FA3-878E-EAEAD209E3CE</id>
+  <title>Weather</title>
+  <title xmlns="urn:iweb:">Weather</title>
+  <in-navbar xmlns="urn:iweb:">C8158B9C-7F70-4FA3-878E-EAEAD209E3CE</in-navbar>
+  <link rel="alternate" href="Weather.html"/>
+  <updated>2013-12-13T15:22:46.017-05:00</updated>
+  <content>Weather</content>
+ </entry>
+</feed>
